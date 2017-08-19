@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fhono Api V1</string>
+    <string name="brands">Choose Brand</string>
+    <string name="samsung">Samsung</string>
+    <string name="sony">Sony</string>
+    <string name="huawei">Huawei</string>
+    <string name="asus">Asus</string>
+</resources>
